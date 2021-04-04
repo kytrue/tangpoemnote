@@ -5,7 +5,7 @@ theme = "hugo-kiera"
 copyright = "Copyright &copy; 2021 - Kytrue"
 canonifyurls = true
 paginate = 8
-summaryLength = 24
+summaryLength = 4
 pygmentsCodeFences = true
 
 [author]
